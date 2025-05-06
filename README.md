@@ -44,6 +44,7 @@
 <h4 align="center">🗄️ Databases</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40"/>
+  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40"/>
@@ -59,6 +60,7 @@
 
 
 ---
+
 
 ### 📈 GitHub Stats
 
