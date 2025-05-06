@@ -37,6 +37,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN" width="40"/> <!-- ShadCN icon -->
+  <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="40"/> <!-- NextAuth icon -->
 </p>
 &nbsp;
 <h4 align="center">🗄️ Databases</h4>
