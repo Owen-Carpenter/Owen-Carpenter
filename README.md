@@ -56,6 +56,7 @@
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cursorrules.svg" alt="NPM" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="40"/>
+  <img src="https://logo.svgcdn.com/l/claude-icon.svg" alt="Claude 4.0" width="40"/>
 </p>
 
 
