@@ -18,45 +18,22 @@
 
 ---
 
-### 🛠️ Toolbox
+### 🛠️ My Toolbox
 
-<h4 align="center">🧠 Languages</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="40"/>
-</p>  
-&nbsp;
-<h4 align="center">🧰 Frameworks & Libraries</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="Next.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN" width="40"/> <!-- ShadCN icon -->
   <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="40"/> <!-- NextAuth icon -->
-</p>
-&nbsp;
-<h4 align="center">🗄️ Databases</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40"/>
-  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40"/>
-</p>
-&nbsp;
-<h4 align="center">🔧 Tools</h4>
-<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" alt="NPM" width="40"/>
-  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cursorrules.svg" alt="NPM" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="40"/>
   <img src="https://logo.svgcdn.com/l/claude-icon.svg" alt="Claude 4.0" width="40"/>
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cursorrules.svg" alt="Cursor" width="40"/>
 </p>
 
 
