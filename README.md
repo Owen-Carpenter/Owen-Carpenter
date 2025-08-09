@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Bachelor of Science in <strong> Computer Science </strong>, Class of 2025 — University of Central Arkansas <br />
-  💻 Full Stack Developer | Passionate about creating empowering ideas with new tech <br />
+  💻 Full Stack SaaS Developer | Computer/Network Technician |Passionate about creating empowering ideas with new tech <br />
   🌱 Currently diving deep into the <strong>Next.js Framework</strong> <br />
   🎨 CSS wizard & Tailwind enthusiast bringing creativity to life
 </p>
