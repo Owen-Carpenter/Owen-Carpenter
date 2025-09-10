@@ -43,7 +43,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owen-carpenter&show_icons=true&theme=radical" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=owen-carpenter&theme=radical" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owen-carpenter&layout=compact&theme=radical" width="380"/>
 </p>
 
