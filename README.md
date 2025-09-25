@@ -1,4 +1,9 @@
-<h1 align="center">Hey there, I'm Owen Carpenter! 👋</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=F74028&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B;I'm+Owen+Carpenter+%F0%9F%98%8A;A+Full-Stack+Web+Developer+%F0%9F%9B%A0%EF%B8%8F;SaaS+Enthusiast+%D6%8E%F0%9F%87%A6%F0%9F%87%AE" alt="Typing SVG" />
+  </a>
+</div>
+
 
 <p align="center">
   🎓 Bachelor of Science in <strong> Computer Science </strong>, Class of 2025 — University of Central Arkansas <br />
