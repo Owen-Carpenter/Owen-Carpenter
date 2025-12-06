@@ -7,7 +7,7 @@
 
 <p align="center">
   🎓 Bachelor of Science in <strong> Computer Science </strong>, Class of 2025 — University of Central Arkansas <br />
-  💻 Full Stack SaaS Developer | Computer/Network Technician | Passionate about creating empowering ideas with new tech <br />
+  💻 Full Stack SaaS Developer | Computer/Network Technician  <br />
   🌱 Currently diving deep into the <strong>Next.js Framework</strong> <br />
   🎨 CSS wizard & Tailwind enthusiast bringing creativity to life
 </p>
@@ -17,7 +17,7 @@
 ### 🚀 About Me
 
 - 🌐 I love building modern web apps with **Next.js**, **React**, and **Tailwind CSS**
-- 🤖 Exploring how **AI** can enhance productivity and creativity
+- 🤖 Exploring how **Cursor** can enhance productivity and creativity
 - 🧠 Always learning, always experimenting, always building
 - 📫 Reach me at: **owen.carpenter.work@gmail.com**
 
