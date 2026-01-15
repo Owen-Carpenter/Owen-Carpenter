@@ -39,17 +39,6 @@
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cursorrules.svg" alt="Cursor" width="40"/>
 </p>
 
-
----
-
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=owen-carpenter&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owen-carpenter&layout=compact&theme=radical" width="380"/>
-</p>
-
 ---
 
 ### 🔗 Let's Connect
