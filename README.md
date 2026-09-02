@@ -7,7 +7,7 @@
 
 <p align="center">
   🎓 Bachelor of Science in <strong> Computer Science </strong>, Class of 2025 — University of Central Arkansas <br />
-  💻 Full Stack SaaS Developer | MVSD Computer Technician  <br />
+  💻 Full Stack SaaS Developer | Network Administrator at Yelcot  <br />
 </p>
 
 ---
