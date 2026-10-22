@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=F74028&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B;I'm+Owen+Carpenter+%F0%9F%98%8A;A+Full-Stack+Web+Developer+%F0%9F%9B%A0%EF%B8%8F;SaaS+Enthusiast+%D6%8E%F0%9F%87%A6%F0%9F%87%AE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B;I'm+Owen+Carpenter+%F0%9F%98%8A;A+Full-Stack+Web+Developer+%F0%9F%9B%A0%EF%B8%8F;SaaS+Enthusiast+%D6%8E%F0%9F%87%A6%F0%9F%87%AE" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,7 +34,6 @@
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" alt="NPM" width="40"/>
-  <img src="https://logo.svgcdn.com/l/claude-icon.svg" alt="Claude 4.0" width="40"/>
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cursorrules.svg" alt="Cursor" width="40"/>
 </p>
 
