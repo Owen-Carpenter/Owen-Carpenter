@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  🎓 Bachelor of Science in <strong> Computer Science </strong>, Class of 2025 — University of Central Arkansas <br />
+  🎓 Bachelor of Science in <strong> Computer Science </strong> <br />
   💻 Full Stack SaaS Developer | Network Administrator at Yelcot  <br />
 </p>
 
@@ -17,7 +17,6 @@
 - 🌐 I love building modern web apps with **Next.js**, **React**, and **Tailwind CSS**
 - 🤖 Exploring how **Cursor** can enhance productivity and creativity
 - 🧠 Always learning, always experimenting, always building
-- 📫 Reach me at: **owen.carpenter.work@gmail.com**
 
 ---
 
@@ -44,8 +43,8 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  📧 <a href="mailto:owen.carpenter.work@gmail.com">owen.carpenter.work@gmail.com</a> <br />
-  🌐 Portfolio (Coming soon!!!) | 💼 LinkedIn: https://www.linkedin.com/in/owen-carpenter-483710358/
+  Email: <a href="mailto:owen.carpenter.work@gmail.com">owen.carpenter.work@gmail.com</a> <br />
+  LinkedIn: https://www.linkedin.com/in/owen-carpenter-483710358/
 </p>
 
 ---
